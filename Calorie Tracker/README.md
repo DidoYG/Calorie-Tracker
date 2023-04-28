@@ -1,4 +1,4 @@
-Your project is a Calorie Tracker, that besides counting the calories eaten, sums up the macros also.
+Our project is a Calorie Tracker, that besides counting the calories eaten, sums up the macros also.
 
 We have decided to implement and use java swing library for the GUI. We have used different elements that are part of the library.
 In the project there is a mainFrame variable that is instance of the JFrame class, a foodPanel instance of the JPanel class and a scrollPane.
